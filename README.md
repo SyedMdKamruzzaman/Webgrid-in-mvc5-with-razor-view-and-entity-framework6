@@ -1,0 +1,2 @@
+# Webgrid-in-mvc5-with-razor-view-and-entity-framework6
+In this article I am going to discuss how to bind data from database to ASP.NET WebGrid. Basically WebGrid is used to display data on a web page using HTML table elements. It renders data in tabular format and also supports custom formatting of columns, paging, sorting, and asynchronous updates via AJAX. Grid is very useful and powerful tool to present data in tabular manner with look and feel.  http://www.techstrikers.com/Articles/webgrid-in-mvc5-with-razor-view-and-entity-framework6.php
